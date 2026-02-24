@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/atom/Documents/Personal/go-log-wrapper status)",
+      "Bash(git -C /Users/atom/Documents/Personal/go-log-wrapper log --oneline -5)",
+      "Bash(git -C /Users/atom/Documents/Personal/go-log-wrapper add .gitignore README.md go.mod go.sum log.go filter.go log_test.go filter_test.go examples/)"
+    ]
+  }
+}
